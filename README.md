@@ -2,7 +2,7 @@
 
 # 🛍️ Basak M Parts
 
-A fully functional, scalable **eCommerce platform** built with PHP & MySQL — supports both **B2B** and **B2C** models with an integrated **Admin CRM panel**, payment and shipping APIs.
+One platform to run your entire online business — **B2B**, **B2C**, **Admin Control**, and **automated logistics**. From stock to shipping, handled with code.
 
 ---
 
@@ -60,5 +60,9 @@ basak-m-store/
 
 ## 👥 Contributors
 
-- **Tuhin Sarkar** – Full Stack Developer 💻  
+  **Tuhin Sarkar** – Full Stack Developer 💻  
+
+---
+
+## 🌍 Live Website
   🔗 [**Basak M Parts**](https://basakmparts.com/)  
