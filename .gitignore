@@ -1,0 +1,25 @@
+# Sensitive files
+config.php
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database backups
+*.sql
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+
+# Vendor and node_modules
+/vendor/
+/node_modules/
+
+# Zip files or archives
+*.zip
+
+# Log files
+*.log
